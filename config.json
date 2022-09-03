@@ -1,9 +1,9 @@
 {
 	"ip":"ROYALSBATTLE.aternos.me",
-	"port": "52190",
-	"name": "afkbot1",
+	"port": "61000",
+	"name": "AFKBOT",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
-	"login-cmd":"/login (type_ur_pass_here)"
+	"register-cmd":"/register NOOB ",
+	"login-cmd":"/login NOOB "
 }
